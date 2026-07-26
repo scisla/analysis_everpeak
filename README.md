@@ -15,7 +15,7 @@
 
    
 - cómo ejecutar el notebook:
--  Abre el archivo `.ipynb` en GitHub
+-  Abre el archivo `analisis conectatel.ipynb` en GitHub
   
 - una breve guía de reproducción:
 - 1. Abre `analisis conectatel.ipynb`
